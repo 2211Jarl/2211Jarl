@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Analyst and Technical Writer</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-2211jarl.vercel.app/](https://my-portfolio-2211jarl.vercel.app/)
+- I also have a GitLab at [https://gitlab.au.dk/au777930](https://gitlab.au.dk/au777930)
 
 - 📝 I regularly write articles about Tableau. Here are some blogs you can go through:
   - [https://www.excelmojo.com/tableau-dashboard/](https://www.excelmojo.com/tableau-dashboard/)
