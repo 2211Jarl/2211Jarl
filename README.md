@@ -15,7 +15,6 @@
 
 - My top-rated articles ranked in Google SE rankings:
   - [How to create a ChatGPT plugin](https://www.geeksforgeeks.org/how-to-create-chatgpt-plugin/)
-  - [Top 10 Selenium Projects of 2023](https://btreesystems.com/blog/top-10-selenium-project-with-code-examples/)
 
 - 📫 How to reach me **priyankaana2211@gmail.com**
 
